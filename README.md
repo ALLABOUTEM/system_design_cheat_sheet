@@ -1,20 +1,20 @@
- Requirements
-** Functional requirements 	
-** Operational requirements 
-*** Availability 
-*** Performance 
-*** Latency
-*** Legal & Compliance & privacy
-*** Maintenance (data lifecycle)
-*** Capacity
-*** Security
-*** Geo
-** Logging and Metrics 
+# Requirements
+ * Functional requirements 	
+ * Operational requirements 
+   * Availability 
+   * Performance 
+   * Latency
+   * Legal & Compliance & privacy
+   * Maintenance (data lifecycle)
+   * Capacity
+   * Security
+   * Geo
+ * Logging and Metrics 
 
-* Back of the envelope estimations 
-** QPS (read) & (Write)
-** Storage estimations 
-** Memory estimations
+# Back of the envelope estimations 
+  * QPS (read) & (Write)
+  * Storage estimations 
+  * Memory estimations
 
 * High level design 
 ** X-tier design 
